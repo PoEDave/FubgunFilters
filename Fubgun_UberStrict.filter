@@ -94,7 +94,7 @@ MinimapIcon 1 White Circle
 
 Show
 Class "Currency"
-BaseType "Neural Catalyst" "Adaptive Catalyst"
+BaseType "Adaptive Catalyst"
 SetFontSize 40
 SetTextColor 255 207 132
 SetBorderColor 255 207 132
